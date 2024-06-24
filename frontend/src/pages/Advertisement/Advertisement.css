@@ -1,0 +1,12 @@
+.btn-custom {
+    color: inherit; /* Use the default text color */
+    background-color: transparent; /* Make the background transparent */
+    border: none; /* Remove border */
+    outline: none; /* Remove outline */
+    cursor: pointer; /* Change cursor to pointer */
+    padding: 0; /* Remove default padding */
+}
+
+.btn-custom:hover {
+    text-decoration: none; /* Remove underline on hover */
+}
